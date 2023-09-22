@@ -1,12 +1,10 @@
 .nfs*
-*.ipynb
 *.pyc
 .dumbo.json
 .DS_Store
 .*.swp
 *.pth
 **/__pycache__/**
-.ipynb_checkpoints/
 datasets/data/
 experiment-*
 *.tmp
@@ -23,5 +21,3 @@ tmp
 vis/
 model_zoo/
 model_zoo_old/
-scripts/
-coco/
